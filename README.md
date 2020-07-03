@@ -1,6 +1,8 @@
 # Tagger - Smarter Email
 
-You can find the project at [Tagger](https://tagger-lab.netlify.com/).
+### You can find the project at [Tagger](https://tagger-lab.netlify.com/).
+
+### You can find the FrontEnd Repository at [Tagger-FrontEnd](https://github.com/natemosco/tagger-fe)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/f0e8023998589cc4d94f/maintainability)](https://codeclimate.com/github/Lambda-School-Labs/tagger-fe/maintainability)
 
